@@ -1,7 +1,9 @@
+package principal;
+
 
 public class Pilha {
     private NumerosInteiros topo;
-    
+    //
     //cria um pilha vazia
     public Pilha(){
         topo = null;
